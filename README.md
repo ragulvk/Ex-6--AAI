@@ -1,5 +1,5 @@
-<H3>NAME: Bairav Skandan Loha</H3>
-<H3>REGISTER NO: 212221230010</H3>
+<H3>NAME: RAGUL VK</H3>
+<H3>REGISTER NO: 212221240043</H3>
 <H3>EX. NO: 6</H3>
 <H3>DATE: 23/04/2024</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
